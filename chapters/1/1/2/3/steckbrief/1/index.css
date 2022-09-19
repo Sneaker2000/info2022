@@ -1,0 +1,10 @@
+body {
+  background-color: lightgreen;
+}
+
+button {
+	border-radius: 0;
+	border: none;
+	height: 40px;
+	width: 40px;
+}
