@@ -12,14 +12,5 @@
     <p>Ich interessiere mich für Informatik und Musik.</p><br>
     <p>Hier stehe ich vor einer Orgel:</p>
     <img src="img1.jpeg" width="190" title="Hier stehe ich vor einer Orgel">
-
-    <p>Ich programmiere gerne mit:</p>
-    <ul>
-      <li>HTML</li>
-      <li>PHP</li>
-      <li>CSS</li>
-    </ul>
-	
-	
   </body>
 </html>

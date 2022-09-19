@@ -8,3 +8,6 @@ button {
 	height: 40px;
 	width: 40px;
 }
+table, th, td {
+  border: 1px solid black;
+}
